@@ -82,6 +82,7 @@
 * [EverydayTasks](https://everydaytasks.jepfa.de/)
 * [Teuxdeux](https://teuxdeux.com/)
 * [Taskito](https://taskito.io/)
+* [SlideShare Downloader](https://onlineslidesdownloader.com/)
 
 ***
 
